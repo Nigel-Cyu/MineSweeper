@@ -1,0 +1,74 @@
+/*
+* @Author: Marte
+* @Date:   2018-03-14 19:58:42
+* @Last Modified by:   Marte
+* @Last Modified time: 2018-03-14 19:59:17
+*/
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 400px;
+    margin: 100px auto;
+    border: 1px solid black;
+}
+.obutton{
+    width: 30px;
+    height: 30px;
+    background: gray;
+}
+.button1{
+    width: 30px;
+    height: 30px;
+    background: gray;
+    color: green;
+}
+.button2{
+    width: 30px;
+    height: 30px;
+    background: gray;
+    color: blue;
+}
+.button3{
+    width: 30px;
+    height: 30px;
+    background: gray;
+    color: yellow;
+}
+.button4{
+    width: 30px;
+    height: 30px;
+    background: gray;
+    color: pink;
+}
+.button5{
+    width: 30px;
+    height: 30px;
+    background: gray;
+    color: purple;
+}
+.button6{
+    width: 30px;
+    height: 30px;
+    background: gray;
+    color: brown;
+}
+.button7{
+    width: 30px;
+    height: 30px;
+    background: gray;
+    color: orange;
+}
+.button8{
+    width: 30px;
+    height: 30px;
+    background: gray;
+    color: black;
+}
+.button_{
+    width: 30px;
+    height: 30px;
+    background: gray;
+    color: red;
+}
